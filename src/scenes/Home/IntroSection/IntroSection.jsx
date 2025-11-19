@@ -1,7 +1,7 @@
 import { AiFillGithub } from '@react-icons/all-files/ai/AiFillGithub';
 import { FaFacebookSquare } from '@react-icons/all-files/fa/FaFacebookSquare';
 import { FaLinkedinIn } from '@react-icons/all-files/fa/FaLinkedinIn';
-import { FaTelegramPlane } from '@react-icons/all-files/fa/FaTelegramPlane';
+import { FaWhatsapp } from '@react-icons/all-files/fa/FaWhatsapp';
 import { LazyLoadImage } from 'react-lazy-load-image-component';
 import Tilt from 'react-parallax-tilt';
 import avatar from '../../../assets/avatar.svg';
@@ -62,7 +62,7 @@ const IntroSection = () => {
         <ul className={s.socialLinks}>
           <li className={s.socialLink}>
             <a
-              href="https://github.com/vsnaichuk"
+              href="https://github.com/Ahmed50366"
               target="_blank"
               rel="noreferrer"
               className={s.socialIcon}
@@ -73,7 +73,7 @@ const IntroSection = () => {
           </li>
           <li className={s.socialLink}>
             <a
-              href="https://www.facebook.com/Snaychuk"
+              href="https://www.facebook.com/ahmed.mehmood503"
               target="_blank"
               rel="noreferrer"
               className={s.socialIcon}
@@ -84,18 +84,18 @@ const IntroSection = () => {
           </li>
           <li className={s.socialLink}>
             <a
-              href="https://t.me/snaichuk_v"
+              href="https://wa.me/+923334178460"
               target="_blank"
               rel="noreferrer"
               className={s.socialIcon}
-              aria-label="telegram"
+              aria-label="whatsapp"
             >
-              <FaTelegramPlane />
+              <FaWhatsapp />
             </a>
           </li>
           <li className={s.socialLink}>
             <a
-              href="https://www.linkedin.com/in/volodymyr-snaichuk-74a389124/"
+              href="https://www.linkedin.com/in/ahmed-mehmood-ch-720031202/"
               target="_blank"
               rel="noreferrer"
               className={s.socialIcon}

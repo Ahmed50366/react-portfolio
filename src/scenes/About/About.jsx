@@ -27,7 +27,7 @@ const About = () => {
         </h2>
         <TechSkills />
 
-        <a href='https://github.com/vsnaichuk'>
+        <a href='https://github.com/Ahmed50366'>
           <h2 className={s.githubActivity}>
             My <b className={s.purple}>Coding</b> Journey
           </h2>

@@ -5,14 +5,14 @@ const AboutTextCard = () => {
     <div className={s.card}>
       <p style={{ textAlign: 'justify' }}>
         Hi Everyone, I am{' '}
-        <span className={s.purple}>Snaichuk Volodymyr, </span>
+        <span className={s.purple}>Ahmed Mehmood, </span>
         <br />a software engineer currently based in{' '}
-        <span className={s.purple}>Krakow, Poland.</span>
+        <span className={s.purple}>Lahore, Pakistan</span>
         <br />
         <br />
-        I have a Bachelor's degree in Computer Science and
+        I have a Bachelor's degree in Computer Science 
         <br />
-        Master's degree in Project Management from Ternopil Academy.
+      from University of Gujrat.
         <br />
         <br />
         My hobbies beyond programming:
@@ -24,6 +24,9 @@ const AboutTextCard = () => {
         </li>
         <li className={s.aboutActivity}>
           - Reading
+        </li>
+        <li className={s.aboutActivity}>
+          - Sports
         </li>
         <li className={s.aboutActivity}>
           - Travelling

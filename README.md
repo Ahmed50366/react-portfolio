@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Website<br/>
-  <a href="https://sv-dev.netlify.app/" target="_blank">Sv.dev</a>
+  <a href="https://ahmed-dev.netlify.app/" target="_blank">ahmed.dev</a>
 </h2>
 
 <div align="center">
@@ -9,7 +9,7 @@
 
 ## Description
 
-Open-source portfolio website <a href="https://sv-dev.netlify.app/" target="_blank">sv-dev.netlify.app</a> <br/>
+Open-source portfolio website <a href="https://ahmed-dev.netlify.app/" target="_blank">ahmed-dev.netlify.app</a> <br/>
 
 This project built using these technologies:
 
@@ -54,10 +54,10 @@ To run this project locally, follow these steps:
 
 If you have any questions, suggestions, or would like to collaborate, feel free to reach out!
 
-- **Email**: v.snaichuk@gmail.com
-- **GitHub**: [vsnaichuk](https://github.com/Ahmed50366)
-- **LinkedIn**: [vsnaichuk](https://www.linkedin.com/in/vsnaichuk/)
-- **Twitter**: [v_snaichuk](https://twitter.com/v_snaichuk)
+- **Email**: ahmed.mehmood5036@gmail.com
+- **GitHub**: [Ahmed50366](https://github.com/Ahmed50366)
+- **LinkedIn**: [ahmed-mehmood](https://www.linkedin.com/in/ahmed-mehmood-ch-720031202/)
+- **Twitter**: [ahmed.mehmood](https://www.facebook.com/ahmed.mehmood503)
 
 Looking forward to hearing from you!
 

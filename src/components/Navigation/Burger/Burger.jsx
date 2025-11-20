@@ -1,8 +1,9 @@
+import cx from 'classnames';
 import s from './Burger.module.scss';
 
-const Burger = ({ onClick }) => {
+const Burger = ({ onClick, className }) => {
   return (
-    <button onClick={onClick} className={s.burger}>
+    <button onClick={onClick} className={cx(s.burger, className)}>
       <span />
       <span />
       <span />

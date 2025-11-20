@@ -26,11 +26,11 @@ const MainNavigation = () => {
       <Media query={{ maxWidth: 768 }}>
         {() => (
           <>
-            <Burger onClick={toggleDrawer} />
+            <Burger className={s.mobileBurger} onClick={toggleDrawer} />
 
-            <Logo className={s.mobile} />
+            <Logo className={`${s.mobile} ${s.mobileLogo}`} />
 
-            <BtnToggleTheme className={s.mobile} />
+            <BtnToggleTheme className={`${s.mobile} ${s.mobileTheme}`} />
           </>
         )}
       </Media>

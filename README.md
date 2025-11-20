@@ -4,12 +4,12 @@
 </h2>
 
 <div align="center">
-  <img alt="Demo" src="https://res.cloudinary.com/dx6tl6aa2/image/upload/v1727730717/portfolio/promo/promo-2024_jfnfwo.png" />
+  <img alt="Demo" src="https://i.ibb.co/jvM98zWc/ahmed-dev.png" />
 </div>
 
 ## Description
 
-Open-source portfolio website <a href="https://ahmed-dev.netlify.app/" target="_blank">ahmed-dev.netlify.app</a> <br/>
+Open-source portfolio website <a href="https://ahmed-devv.netlify.app/" target="_blank">ahmed-devv.netlify.app</a> <br/>
 
 This project built using these technologies:
 

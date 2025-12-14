@@ -5,7 +5,7 @@ const data = [
     description:
       'This app helps Cabo Airport Shuttle drivers work more efficiently. They can log in, scan vouchers, view airport pickups, get updates, add early/late services to a calendar, access vehicle documents and guides, report cleanliness issues, and locate car seats and boosters, all in one place.',
     image: {
-      src: 'https://i.ibb.co/LzYYvwKC/cabo.png',
+      src: 'https://firebasestorage.googleapis.com/v0/b/budgettracker-99bc5.appspot.com/o/images%2Fcabo.png?alt=media&token=4992dedb-302e-48db-b8b6-1c1b3f394862',
       placeholderSrc:
         'data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzIDIiPjwvc3ZnPg==',
     },
